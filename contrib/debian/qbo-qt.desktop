@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=QBO
+Comment=QBO P2P Cryptocurrency
+Comment[fr]=QBO, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=QBO, eşten eşe kriptografik sanal para birimi
+Exec=qbo-qt %u
+Terminal=false
+Type=Application
+Icon=qbo128
+MimeType=x-scheme-handler/qbo;
+Categories=Office;Finance;
